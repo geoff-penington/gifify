@@ -1,3 +1,8 @@
+"""
+This file is taken without modification from https://github.com/hwalsuklee/tensorflow-generative-model-collections/
+"""
+
+
 #-*- coding: utf-8 -*-
 from __future__ import division
 import os
