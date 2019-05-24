@@ -1,4 +1,8 @@
 """
+This file is taken without modification from https://github.com/hwalsuklee/tensorflow-generative-model-collections/
+"""
+
+"""
 Most codes from https://github.com/musyoku/adversarial-autoencoder/blob/master/sampler.py
 """
 
